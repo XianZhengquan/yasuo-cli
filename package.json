@@ -1,0 +1,14 @@
+{
+    "name": "yasuo-cli",
+    "version": "0.0.1",
+    "description": "yasuo 用的 创建文件的 脚手架",
+    "bin": {
+        "yasuo": "bin/cli.js"
+    },
+    "author": "xianzhengquan",
+    "license": "ISC",
+    "dependencies": {
+        "commander": "^8.0.0",
+        "prompts": "^2.4.1"
+    }
+}
